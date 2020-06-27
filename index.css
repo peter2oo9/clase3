@@ -1,0 +1,15 @@
+.fondo{
+    height: 500px;
+   /* background-color: red;
+    background-image: url(assets/whats.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;*/
+    background-image: linear-gradient(to right, red 20%, green 50%, blue 100%);
+
+}
+
+body{
+    margin: 0;
+}
+
